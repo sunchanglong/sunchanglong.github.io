@@ -1,6 +1,6 @@
-# sunchanglong.github.io
-电子病历编辑器 [体验地址](https://sunchanglong.github.io)
-功能：
+
+## 电子病历编辑器 [体验地址1](https://sunchanglong.github.io) [体验地址2](http://cneditor.top)
+## 功能：
 1. 实现了输入域，支持文本，数值，日期，下拉选择
 2. 下拉选择支持本地定义，和远程接口两种数据来源
 3. 输入域支持关联输入，通过输入域表达式控制
